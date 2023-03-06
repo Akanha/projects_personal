@@ -1,1 +1,1 @@
-# projects_personal
+# personal projects
